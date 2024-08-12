@@ -262,6 +262,13 @@ input, select, textarea {
 
 	}
 
+	#myPDF {
+		width: 85%;
+		height: 900px;
+		margin: -70px;
+		margin-right: 300px;
+	}
+
 	sub {
 		font-size: 0.8em;
 		position: relative;
